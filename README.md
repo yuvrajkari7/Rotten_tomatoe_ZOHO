@@ -8,7 +8,7 @@
 **Packages:** pandas, numpy, scipy, sklearn, matplotlib, seaborn, xgboost
 
 ## Dataset Used 
-**From Kaggle:** (https://github.com/yuvrajkari7/Rotten_tomatoe_ZOHO/blob/main/Rotten_Tomatoes_Movies3.xls.zip)
+**Given dataset from ZOHO:** (https://github.com/yuvrajkari7/Rotten_tomatoe_ZOHO/blob/main/Rotten_Tomatoes_Movies3.xls.zip)
 
 ## Data Cleaning
 I needed to clean it up so that it was usable for our model. I made the following changes and created the following variables:
